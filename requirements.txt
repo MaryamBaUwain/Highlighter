@@ -1,2 +1,4 @@
-opencv-python-headless
-tensorfolw
+streamlit
+opencv-python-contrib-headless
+tensorflow
+matplotlib
